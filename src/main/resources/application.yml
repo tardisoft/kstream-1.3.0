@@ -1,0 +1,9 @@
+---
+micronaut:
+  application:
+    name: kstream
+
+---
+kafka:
+  bootstrap:
+    servers: localhost:9092
